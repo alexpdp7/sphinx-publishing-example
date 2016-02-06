@@ -1,5 +1,9 @@
 [![Documentation Status](https://readthedocs.org/projects/sphinx-publishing-example/badge/?version=latest)](http://sphinx-publishing-example.readthedocs.org/en/latest/?badge=latest)
 
+[Latest PDF](http://readthedocs.org/projects/sphinx-publishing-example/downloads/pdf/latest/)
+[Latest EPUB](http://readthedocs.org/projects/sphinx-publishing-example/downloads/epub/latest/)
+[Latest HTML ZIP](http://readthedocs.org/projects/sphinx-publishing-example/downloads/htmlzip/latest/)
+
 Experiment using sphinx for publishing
 ======================================
 
