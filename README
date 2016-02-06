@@ -6,3 +6,6 @@ $ make latexpdf  # to generate PDF with LaTeX; you will need a LaTeX
                  # environment; on Debian, install texlive-latex-extra
 $ make epub      # to generate an EPUB
 $ make html      # to publish HTML
+
+To generate graphviz graphs you will need dot, included in the Debian
+graphviz package.

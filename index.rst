@@ -8,6 +8,7 @@ Contents:
    :maxdepth: 2
 
    math
+   graphviz
 
 Indices and tables
 ==================
