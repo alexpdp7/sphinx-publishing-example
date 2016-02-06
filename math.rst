@@ -15,3 +15,7 @@ We can also do assignment simply:
               &=  a^2 + 2ab + b^2
 
 For more details, refer to the `Sphinx documentation <http://www.sphinx-doc.org/en/stable/ext/math.html>`_.
+
+A pull request to include some more maths:
+
+.. math:: \int_0^n x^3 dx
