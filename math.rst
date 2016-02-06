@@ -15,3 +15,5 @@ We can also do assignment simply:
               &=  a^2 + 2ab + b^2
 
 For more details, refer to the `Sphinx documentation <http://www.sphinx-doc.org/en/stable/ext/math.html>`_.
+
+This is a test to see if Read The Docs is triggered.
